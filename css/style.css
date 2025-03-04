@@ -1,0 +1,103 @@
+.nav-goroskop {
+display:flex;
+flex-direction:row;
+justify-content:space-around;
+flex-wrap:nowrap;
+align-items:center;
+background-color:#559cf3;
+}
+.nav-goroskop-1 {
+list-style-type:none;
+margin:0 auto;
+border:2px solid blue;
+padding:5px;
+text-transform:uppercase;
+background-color:#c4ffe4;
+}
+.nav-goroskop-1:hover
+{
+background-color:rgb(204, 236, 87);
+}
+body {
+background-color:#c4dfff;
+}
+h2 {
+text-align:center;
+font-weight:bold;
+}
+h3 {
+text-align:center;
+font-weight:bold;
+}
+p {
+color:black;
+font-size:1em;
+text-align:justify;
+}
+.outline {
+border: 1px solid green;
+padding: 0 10px;
+}
+.grand {
+color:black;
+font-weight:700;
+}
+.italic-text {
+color:right;
+font-style:italic;
+}
+.color-blue-text {
+color:blue;
+text-align:justify;
+}
+img {
+display:block;
+margin:auto;
+width:200px;
+}
+.dasha-img {
+display:block;
+margin:auto;
+width:800px;
+}
+.border {
+border: 3px solid #00af64;
+}
+{
+border-collapse: collapse;
+background-color:lightblue;
+text-align:center;
+margin: auto;
+nav-flex
+}
+{
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+ flex-wrap: nowrap;
+ background-color: #00BFFF;
+}
+.nav-flex-item
+{
+list-style-type: none;
+padding: 10px;
+margin-right: 5px;
+border-left: 5px solid #3333FF;
+text-transform: uppercase;
+background-color: #1E90FF;
+}
+.nav-flex-item:hover
+{
+background-color: #FFFFFF;
+}
+ header
+{
+ text-align: center;
+ height: 50px;
+ background-repeat: no-repeat;
+ padding-top: 30px;
+}
+footer
+{
+ padding: 1rem 3rem 1rem 3rem;
+}
